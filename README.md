@@ -17,8 +17,7 @@ Sorting Algorithms : Merge Sort, Quick Sort, Insertion Sort, Bubble Sort, Select
 Demo :
 
 Before Sorting :
-
-![Screenshot_2021-08-24_22-44-00](https://user-images.githubusercontent.com/71513291/130661442-b2228465-f276-4eb7-a391-11748a0c48b5.png)
+![Screenshot_2021-08-24_22-44-00](https://user-images.githubusercontent.com/71513291/130661681-2df4d909-693e-4d99-9c2e-a71c7355559e.png)
 
 
 After Sorting :
